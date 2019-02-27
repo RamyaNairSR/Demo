@@ -21,7 +21,7 @@
 #
 #   python calc.py "432 + 2"
 #
-#   python calc.py "9!"
+#   python calc.py "111111111111111111111111111111111111111111119!"
 #
 #   python calc.py "2^foo - 1" foo=8
 #
