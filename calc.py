@@ -19,7 +19,7 @@
 #
 # You can test this program out on the command-line. For instance:
 #
-#   python calc.py "2 + 2"
+#   python calc.py "432 + 2"
 #
 #   python calc.py "9!"
 #
